@@ -1,4 +1,4 @@
--- pick a class with Baton as starter tool then hold before using the script
+-- pick a class with Baton as starter tool then hold the tool before using the script
 -- it will farm the printers for you
 -- Note: its not the safest farm you will understand when you use it
 
