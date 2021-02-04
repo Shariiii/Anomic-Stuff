@@ -9,6 +9,7 @@ Note: If these scripts ever get patched i will probably update them when i am fr
 
 Update 2:
 - Added Anti Spawn CD which removes cooldown that stops you from spawning again at same location of the map
+
 Update 1:
 - Added 2nd method to bypass anti teleport which is much less taxing on exploits compared to 1st one
 - Added Anti WalkSpeed Bypass script
