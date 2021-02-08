@@ -1,7 +1,8 @@
 -- it bypasses the walkspeed check that kills you when you change your walkspeed allowing you to adjust it as much as you like
--- Note: You don't need to execute this script more than once also make sure to use teleport bypass if you wish to move at really high speed
+-- Note: You don't need to execute this script more than once and i included bypass this time ;)
 -- remember the script won't set your speed you will have to do it manually or with something like this [[ game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = 100 ]]
 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Shariiii/Anomic-Stuff/main/Main%20Bypass.lua", true))()
 local SP = game:GetService("StarterPlayer")
 local CharScripts = SP:WaitForChild("StarterCharacterScripts",100)
 local player = game.Players.LocalPlayer
