@@ -7,6 +7,18 @@ Note: If these scripts ever get patched i will probably update them when i am fr
 - If i ever make more scripts for same game i will post them here
 - If there is something wrong with the scripts or you wish to give suggestions or maybe request a script for Anomic Join... https://discord.gg/jFV5SEe4jc
 
+Update 3:
+- From now all those scripts that got fixed will use a shared file to bypass same stuff so i won't have to update 69 scripts each time they make dumb patches to anti tp or other stuff.......
+- Fixed and Updated:
+- - Anti Anti Teleport But Less Taxing
+- - Anti Noclip Bypass
+- - Anti Spawn CD
+- - Baton Farm Script
+- - Pick All UnLocked Printers
+- - Pick all dropped tools
+- - Unlock and Cash Printers
+- - WalkSpeed Bypass
+
 Update 2:
 - Added Anti Spawn CD which removes cooldown that stops you from spawning again at same location of the map
 
