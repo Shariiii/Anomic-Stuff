@@ -7,6 +7,8 @@ Note: If these scripts ever get patched i will probably update them when i am fr
 - If i ever make more scripts for same game i will post them here
 - If there is something wrong with the scripts or you wish to give suggestions or maybe request a script for Anomic Join... https://discord.gg/jFV5SEe4jc
 
+Event: 500 mil Anomic Cash per winner - 5 Winners... Giveaway in the discord server
+
 Update 3:
 - From now all those scripts that got fixed will use a shared file to bypass same stuff so i won't have to update 69 scripts each time they make dumb patches to anti tp or other stuff.......
 - Fixed and Updated:
